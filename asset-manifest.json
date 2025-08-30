@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Akash-sharma-au51/portfolio/static/css/main.6a0a0aaf.css",
+    "main.js": "/Akash-sharma-au51/portfolio/static/js/main.952e6585.js",
+    "static/js/453.1b0d4a06.chunk.js": "/Akash-sharma-au51/portfolio/static/js/453.1b0d4a06.chunk.js",
+    "static/media/mock01.png": "/Akash-sharma-au51/portfolio/static/media/mock01.c1f58c7c0628cf49dd05.png",
+    "static/media/bg-light.png": "/Akash-sharma-au51/portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/Akash-sharma-au51/portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/mock07.png": "/Akash-sharma-au51/portfolio/static/media/mock07.56f73c615af3bf99a564.png",
+    "static/media/mock10.png": "/Akash-sharma-au51/portfolio/static/media/mock10.6ddcb394c42bdb21925f.png",
+    "static/media/mock08.avif": "/Akash-sharma-au51/portfolio/static/media/mock08.5d60760ac964ed64224f.avif",
+    "static/media/img1.jpg": "/Akash-sharma-au51/portfolio/static/media/img1.6099765148ff90604ed2.jpg",
+    "index.html": "/Akash-sharma-au51/portfolio/index.html",
+    "main.6a0a0aaf.css.map": "/Akash-sharma-au51/portfolio/static/css/main.6a0a0aaf.css.map",
+    "main.952e6585.js.map": "/Akash-sharma-au51/portfolio/static/js/main.952e6585.js.map",
+    "453.1b0d4a06.chunk.js.map": "/Akash-sharma-au51/portfolio/static/js/453.1b0d4a06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a0a0aaf.css",
+    "static/js/main.952e6585.js"
+  ]
+}
